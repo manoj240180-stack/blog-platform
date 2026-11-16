@@ -31,3 +31,5 @@ Open http://localhost:3000
 | GET | /api/posts/:id/comments | No | List comments |
 | POST | /api/posts/:id/comments | Yes | Add comment |
 | DELETE | /api/comments/:id | Yes (owner) | Delete comment |
+## Live Demo
+https://blog-platform-1-lpd0.onrender.com/
